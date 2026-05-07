@@ -1,3 +1,5 @@
+this fork exists to test big fixes and new features. Don't use it for production. -nathanm412
+
 # Home Assistant Community Add-on: Studio Code Server
 
 [![GitHub Release][releases-shield]][releases]
