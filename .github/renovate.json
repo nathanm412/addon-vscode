@@ -6,6 +6,7 @@
   "commitMessagePrefix": "⬆️",
   "commitMessageTopic": "{{depName}}",
   "prHourlyLimit": 0,
+  "fork-processing":"enabled",
   "customManagers": [
     {
       "customType": "regex",
