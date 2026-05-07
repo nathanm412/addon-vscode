@@ -9,7 +9,7 @@ on:
       - opened
       - reopened
       - synchronize
-  #workflow_dispatch:
+  workflow_dispatch:
 
 jobs:
   workflows:
